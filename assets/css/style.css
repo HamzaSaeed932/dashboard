@@ -265,7 +265,7 @@ body {
   color: var(--white);
 }
 .details .recentOrders table tr td {
-  padding: 15px;
+  padding: 16px;
 }
 .details .recentOrders table tr td:last-child {
   text-align: end;
